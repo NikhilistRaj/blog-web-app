@@ -22,7 +22,7 @@ git clone https://github.com/NikhilistRaj/blog-web-app.git
 
 * create a python virtual environment and run
 ```
-pip install -r requiremen.txt
+pip install -r requirements.txt
 ```
 
 * to run the application

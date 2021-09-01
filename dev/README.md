@@ -6,4 +6,4 @@
 
 
 ### Wed Sep 1 09:57:53 AM IST 2021
-> Started team meetings, navigation modeling decided, defined schema for [database](https://github.com/NikhilistRaj/blog-web-app.git)
+> Started team meetings, navigation modeling decided, defined schema for [Database](https://app.quickdatabasediagrams.com/#/d/q8ze4J)
