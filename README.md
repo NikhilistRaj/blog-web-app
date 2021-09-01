@@ -2,19 +2,33 @@
 
 A full-stack web-application made in Django for blogs management.
 
-### DB diagram link
-https://app.quickdatabasediagrams.com/#/d/q8ze4J
-
-**credentials to access dbdiagram**
-* email: jewoko8575@mi166.com
-* password: Raja@123
 ### Key Features
 * Blogger can create blogs and assign topics
-* Readers can follow bloggers & topics and upvote/downvote blog
-* 
+* Readers can follow bloggers & topics and upvote/downvote, comment on blog 
+* Blogs can be searched in their respective categories and via tags as well
 
 
 ### Developers Team
 * _
 * --
 * -
+
+### Installation
+
+* run on cli
+```
+git clone https://github.com/NikhilistRaj/blog-web-app.git
+```
+
+* create a python virtual environment and run
+```
+pip install -r requiremen.txt
+```
+
+* to run the application
+```
+cd blog-web-app/src
+```
+```
+python manage.py runserver
+```
